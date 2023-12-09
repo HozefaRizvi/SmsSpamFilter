@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "smsspamfilteringapp",
+    "private_key_id": "94e6ce4c751f6f50c98c01b173c761434420b44f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7HXwiuEnL1Hgj\ngCbSTKMKPktNifbc4yfEa8jgoCC3C4Sku6DfWa16rhTuSt9QygfWnYnJAqgiRf3i\nlmxeMxDqolmP9I01O318T58EjzRm26b2IHmd5u4zKybeyZ2HO38zz3pja3TBKkZz\nQOYTP4ug1BB8UJ93F9anOum0Ui6bsUpsozt6EZg2DPzXHmOkZcpc3y8fZSMBIJRK\nVc346ogdLqqgQPkzFe3r4E+FFK97d571CCZfRlJh/8MF6/+idMG4OTQNy2RFUAiR\nFZKttVFcCzeiL2SkdHpv3cZATQJJohPBk7DwGnc32e2XZKtD2tyEzmDA57T8JFTW\nI4ym3IURAgMBAAECggEAEToFktY74A7JeT48BL4+v+uMiADYyA0HPR2NvsVrQaLn\nNTnbdZimYK4seeRNgzz4ZAU4uVd75nziYwUliLYjm3BzNa5GflVB6CsV6Sfsg4A7\nMrt6auPHABG72ETAUqITA9B5FHRhCUQkvIln7TN7XcUMV/+dsMuSbO6+86Whyh5L\n/gz8eFajlk+Q1RUjKD8A0tjjfIVPC4r70/9D89GMo0Lape01Mzegug6KvU53IXNI\n+svvxwURSXByaedVTTH0HPkdLZArAj9Nm1pn4ItN/+B4W9+/43HvZCFZPtFyXKBs\n2inu/RiEtUMpbvTON6kwb8OsYN0HWwCHfHtb5QxPCQKBgQDdSbKOjEErflqRLhdQ\nI5orZ6lnGhtwdzJt7Yd48fQnxssxBfqIZqxIrGw3L1RABPcZwbZTBr10LFWigyPJ\njYBKTJSULKG3HxUdABv349tNH6l4qqG4oa7MX6TMT4gCQEA0jsb3+O8zi5GZJTK/\nanxYhq+nZnJSGAdgs37L03WmmQKBgQDYd4HS56r+tPbjr2+JWrKznHSsXb1VpaPy\ne8D+5faYepobJjpHhLMB5kBTFY2sAdeSSqddR1jPQM7hx+IJVCsg2k3K7pp3F92H\nn60UZaigobQK7pM5aaoXmjpvTsHdBj8N95rFnmGF94D9muPcVQg7eRnNMU50LJo5\ntoJu+Ur1OQKBgGtR2q8XhmO5m+LdH6FWIub6F0ZRew1IQcTedd1KOscvukvEQoT0\nhomYVcNNyOZjghOTxwDtO+Sju8RdJXYSki12hnh2TNeq02qFKwtGDo2Q1XgYCOaq\nQ0QK/rm3uJae4oSa2hRZPmkZPzuutrXuxu+IIphlLvxxeuKDKvNfUqfBAoGBANRI\nLoq0Ip7yvQQAcfNTfNhjYJAAxcKOVD9iWZwfzTsvUJ27WX/1hM8iDIbuJic/Dzcp\n+wOhClkFh10n9mWLo1fufke6wsR0JQ3x63yLTVlp+vSVjs/I7cODvjaWF8w3afK6\nlY+jiKQmWttZ4Iec5Bve4Qy3g+auLvjWIQfPdlERAoGBAJZCeFA2Db1GBLPtydGu\ngth3JvMxleS4+v0i8IKiIxOwSRFhwTvv0USNaDumIixFfFJtZY4KFwu5IL5JThzw\nU8Czk0gRJcAYwa0WXcmHDOajD4bLFTSzYamD1LmHCA6xzS4gomaOh35b4GYNha2N\nnrzHq4jwhzukVj3VAuMjLUKF\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-lafnh@smsspamfilteringapp.iam.gserviceaccount.com",
+    "client_id": "114684295867709374169",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lafnh%40smsspamfilteringapp.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
